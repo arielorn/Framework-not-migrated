@@ -1,0 +1,14 @@
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Framework not migrated.exe.config
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Framework not migrated.exe
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Framework not migrated.pdb
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Raven.Abstractions.dll
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Raven.Abstractions.pdb
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Raven.Abstractions.xml
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Raven.Client.Lightweight.pdb
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\obj\Debug\Framework not migrated.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\obj\Debug\Framework not migrated.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\obj\Debug\Framework not migrated.csproj.CopyComplete
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\obj\Debug\Framework not migrated.exe
+C:\Users\ariel\source\repos\Framework not migrated\Framework not migrated\obj\Debug\Framework not migrated.pdb
